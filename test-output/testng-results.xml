@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T20:00:33 IST" name="Default suite" finished-at="2023-05-20T20:00:34 IST" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T20:00:33 IST" name="Default test" finished-at="2023-05-20T20:00:34 IST" duration-ms="71">
+      <class name="testNGclass.ExeclDataRead">
+        <test-method signature="verifyLoginTest(java.util.HashMap)[pri:0, instance:testNGclass.ExeclDataRead@54bff557]" started-at="2023-05-20T20:00:34 IST" name="verifyLoginTest" data-provider="getData" finished-at="2023-05-20T20:00:34 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=ViratPwd, age=26, username=Virat}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.util.HashMap)[pri:0, instance:testNGclass.ExeclDataRead@54bff557]" started-at="2023-05-20T20:00:34 IST" name="verifyLoginTest" data-provider="getData" finished-at="2023-05-20T20:00:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=RohitPwd, age=25, username=Rohit}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.util.HashMap)[pri:0, instance:testNGclass.ExeclDataRead@54bff557]" started-at="2023-05-20T20:00:34 IST" name="verifyLoginTest" data-provider="getData" finished-at="2023-05-20T20:00:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=SuryaPwd, age=30, username=Surya}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="verifyLoginTest(java.util.HashMap)[pri:0, instance:testNGclass.ExeclDataRead@54bff557]" started-at="2023-05-20T20:00:34 IST" name="verifyLoginTest" data-provider="getData" finished-at="2023-05-20T20:00:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=HardikPwd, age=33, username=Hardik}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+      </class> <!-- testNGclass.ExeclDataRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
